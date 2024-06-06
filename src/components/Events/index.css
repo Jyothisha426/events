@@ -1,0 +1,26 @@
+.events-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.events-content {
+  background-color: #3a4b63;
+  width: 60vw;
+  padding: 10px;
+}
+
+.events-heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 26px;
+}
+
+.events-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 100%;
+  list-style-type: none;
+  padding: 0;
+}

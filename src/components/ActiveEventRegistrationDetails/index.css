@@ -1,0 +1,56 @@
+.registration-view-container {
+  padding: 10px;
+}
+
+p {
+  font-family: 'Roboto';
+}
+
+.no-event-desc {
+  color: #64748b;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.view-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.registration-img {
+  height: 300px;
+  width: 250px;
+}
+
+.registrations-closed-head {
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: #323f4b;
+  font-size: 22px;
+}
+
+.registrations-closed-para {
+  color: #3a4b63;
+  font-size: 13px;
+}
+
+.registered-img {
+  height: 40px;
+  width: 40px;
+}
+
+.register-btn {
+  background-color: #0967d2;
+  color: #ffffff;
+  font-size: 13px;
+  font-family: 'Roboto';
+  border-radius: 3px;
+  border: 0px solid transparent;
+  outline: none;
+  cursor: pointer;
+  width: 120px;
+  height: 35px;
+}
